@@ -1,0 +1,19 @@
+{
+  "Persons": {
+    "John": {
+      "Name": "John",
+      "Age": 20,
+      "Gender": "Male"
+    },
+    "Mary": {
+      "Name": "Mary",
+      "Age": 21,
+      "Gender": "Female"
+    },
+    "Peter": {
+      "Name": "Peter",
+      "Age": 22,
+      "Gender": "Male"
+    }
+  }
+}
