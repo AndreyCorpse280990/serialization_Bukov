@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<People xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Persons>
+    <Person>
+      <Name>John</Name>
+      <Age>20</Age>
+      <Gender>Male</Gender>
+    </Person>
+    <Person>
+      <Name>Mary</Name>
+      <Age>21</Age>
+      <Gender>Female</Gender>
+    </Person>
+    <Person>
+      <Name>Peter</Name>
+      <Age>22</Age>
+      <Gender>Male</Gender>
+    </Person>
+  </Persons>
+</People>
